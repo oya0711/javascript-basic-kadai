@@ -11,7 +11,7 @@ function getTodayDate() {
   
   
     // フォーマットを整えて返す
-    return `${year}/${month}/${date}`;
+    return `${year}年${month}月${date}日`;
   }
   
   // 関数を呼び出して今日の日付を出力
